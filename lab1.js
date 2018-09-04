@@ -1,6 +1,9 @@
-alert ('U dient 3 vragen te beantwoorden.');
+<!-- /* Oualid El Khalki 16 jaar aplicatie ontwikkelaar niveau 4*/ -->
 
-document.write("voer hier je voornaam in: ");
+
+alert ('U dient 3 vragen te beantwoorden.');<!--  Alert balkje met tekst erin -->
+
+document.write("voer hier je voornaam in: "); <!-- er komt een pop up vraagje -->
 document.write(prompt( "voer hier je voornaam in.")); 
 document.write("<br>");
 
