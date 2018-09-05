@@ -3,12 +3,11 @@ Oualid El Khalki
  Aplicatie en media ontwikkelaar.
 
 */
-var GETAL = prompt('vul cijfer in',GETAL);
-GETAL = parseInt(GETAL)
+var GETAL = prompt('vul cijfer in',GETAL); //vul een getal van tafelberekenen
 var getal = 12
 var invoer;
 // de tafel van GETAL
-document.write('<br>1 x '+ GETAL +'=' + 1*GETAL);
+document.write('<br>1 x '+ GETAL +'=' + 1*GETAL);  
 document.write('<br>2 x '+ GETAL +'=' + 2*GETAL);
 document.write('<br>3 x '+ GETAL +'=' + 3*GETAL);
 document.write('<br>4 x '+ GETAL +'=' + 4*GETAL);
