@@ -1,0 +1,10 @@
+body{
+    background-image: url(pizza1.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 300%; 
+}
+
+div#kolem1{
+margin: 50px;
+
+}
